@@ -1,5 +1,14 @@
 [
   {
+    "filename": "com.nianticlabs.pokemongo_arm64-v8a_0.411.3.apkm",
+    "last_modified": "2026-05-22T22:05:07.175Z",
+    "md5_hash": "d4b65c6a3b6f45b5a525f1fcd3183d11",
+    "size": 171568933,
+    "arch": "arm64-v8a",
+    "version": "0.411.3",
+    "sha_256_sum_libNianticLabsPlugin.so": "4b2423625e7c33e7d4fd4e4af0ce0ee26e67cc87e128315fb3d4b6027ec9bb7b"
+  },
+  {
     "filename": "com.nianticlabs.pokemongo_arm64-v8a_0.411.2.apkm",
     "last_modified": "2026-05-21T10:05:06.624Z",
     "md5_hash": "1af28f90288ebc48b658cbce0ff640a5",
