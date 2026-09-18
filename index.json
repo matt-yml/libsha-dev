@@ -1,9 +1,18 @@
 [
   {
+    "filename": "com.nianticlabs.pokemongo_arm64-v8a_0.429.1.apkm",
+    "last_modified": "2026-09-18T01:05:23.163Z",
+    "md5_hash": "108931af7b75fab9881b8519c4c56bad",
+    "size": 163531849,
+    "arch": "arm64-v8a",
+    "version": "0.429.1",
+    "sha_256_sum_libNianticLabsPlugin.so": "7ab0ec94777ba89379eced0cd58c2b3b26613e56bed7437950e3b15cb2c12a7b"
+  },
+  {
     "filename": "com.nianticlabs.pokemongo_arm64-v8a_0.427.0.apkm",
-    "last_modified": "2026-08-31T13:56:31.657Z",
-    "md5_hash": "34cb5d7ab7c23590b5439cd2c025ab4a",
-    "size": 173210823,
+    "last_modified": "2026-09-02T04:40:20.708Z",
+    "md5_hash": "a303a83462bc21d217c3ca1745dd1943",
+    "size": 172769279,
     "arch": "arm64-v8a",
     "version": "0.427.0",
     "sha_256_sum_libNianticLabsPlugin.so": "ae140d7dc176bada3e06fb46be8a6c5bfa835e2144b70eb1016077f463232983"
@@ -73,9 +82,9 @@
   },
   {
     "filename": "com.nianticlabs.pokemongo_arm64-v8a_0.417.1.apkm",
-    "last_modified": "2026-08-01T19:57:24.587Z",
-    "md5_hash": "45bc6f0d91e92c9b37a759617c3fcf4e",
-    "size": 163365128,
+    "last_modified": "2026-09-01T18:34:57.146Z",
+    "md5_hash": "d9d4496250bc61adc42633ac7b7ea068",
+    "size": 162689861,
     "arch": "arm64-v8a",
     "version": "0.417.1",
     "sha_256_sum_libNianticLabsPlugin.so": "d94b2785b9097902c7879e8f444431d4f074a7efec22b00d5c4e96eafadd861e"
